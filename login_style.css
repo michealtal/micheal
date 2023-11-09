@@ -15,7 +15,9 @@
 .form {
   position: relative;
   z-index: 1;
-  background: rgb(255, 2, 2);
+
+  background: #a048c9;
+
   max-width: 360px;
   margin: 0 auto 100px;
   padding: 45px;
